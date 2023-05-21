@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\singha31112\\source\\repos\\NumericalValueToWordsConversion\\NumericalValueToWords\\NumericalValueToWordsConversion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\singha31112\\source\\repos\\NumericalValueToWordsConversion\\NumericalValueToWords\\NumericalValueToWordsConversion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\singha31112\\source\\repos\\NumericalValueToWordsConversion\\NumericalValueToWords\\NumericalValueToWordsConversion.csproj",
+        "projectName": "NumericalValueToWordsConversion",
+        "projectPath": "C:\\Users\\singha31112\\source\\repos\\NumericalValueToWordsConversion\\NumericalValueToWords\\NumericalValueToWordsConversion.csproj",
+        "packagesPath": "C:\\Users\\singha31112\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\singha31112\\source\\repos\\NumericalValueToWordsConversion\\NumericalValueToWords\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\DevExpress 22.1\\Components\\Offline Packages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\singha31112\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Users\\singha31112\\source\\repos\\Greylock": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.devexpress.com/MKGobW5P5qo5egzTiVMSZeLor37qkne7rqpl8RA7b4XtJwIC6W/api": {},
+          "https://www.myget.org/F/abtsoftware/api/v3/index.json": {},
+          "https://www.myget.org/F/pki_invivo_private/auth/2a2fa7fc-454d-4f18-b1d3-4723326d9f05/api/v3/index.json": {},
+          "https://www.myget.org/F/pki_public/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
